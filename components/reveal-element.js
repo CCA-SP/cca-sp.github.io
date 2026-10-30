@@ -89,15 +89,15 @@ class KeyCard extends HTMLElement {
             </div>
             <div class="card-bottom">
               <a data-id="arrow" href="understand.html" class="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-track explore">
-                Explore
-                <span class="arrow">
+                
+                <!--span class="arrow">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" 
                     fill="none" stroke="currentColor" stroke-width="2" 
                     stroke-linecap="round" stroke-linejoin="round" 
                     class="transition-transform duration-300 group-hover:translate-x-1 motion-reduce:transform-none" 
                     aria-hidden="true" 
                     style="transform: translateY(5px);"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
-                </span>
+                </span-->
               </a>
             </div>
           </div>
